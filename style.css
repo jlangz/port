@@ -7,3 +7,10 @@
     width:auto;
     text-align: center;
 }
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(77, 73, 73);
+}
